@@ -1,4 +1,4 @@
-# ZG ZoneMenu 1.0.3 — TOML / configuración
+# ZoneMenu 1.0.3 — TOML / configuración
 
 `config/zonemenu-client.toml` is a **per-client** Forge config, not a server policy file. / Es configuración de **cada cliente**, no una política del servidor.
 
